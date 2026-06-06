@@ -1,0 +1,22 @@
+[
+  {
+    "sizeGB": 1.0,
+    "downloadPlatform": "",
+    "title": "tomb raider",
+    "price": 25.0,
+    "platform": "Steam",
+    "stock": 3,
+    "genre": "accion",
+    "type": "DigitalVideoGame"
+  },
+  {
+    "sizeGB": 1.0,
+    "downloadPlatform": "",
+    "title": "Sim4",
+    "price": 10.0,
+    "platform": "Steam",
+    "stock": 16,
+    "genre": "Simulacion",
+    "type": "DigitalVideoGame"
+  }
+]
